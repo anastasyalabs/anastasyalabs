@@ -63,19 +63,6 @@ I experiment. I prototype. I rebuild.
 - Exploring computer vision  
 
 My home lab is where ideas become physical.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anastasyalabs&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasyalabs&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## 🧪 Philosophy
